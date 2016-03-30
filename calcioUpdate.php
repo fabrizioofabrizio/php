@@ -1,10 +1,10 @@
 <?php
 
 
-$serverName = "mysql.hostinger.it";
-$userName = "u149252705_users";
-$password = "23y54bak";
-$dbName = "u149252705_test";
+$serverName = "";
+$userName = "";
+$password = "";
+$dbName = "";
 
 /*
 $serverName = "localhost";
